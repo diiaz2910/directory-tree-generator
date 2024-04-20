@@ -1,11 +1,10 @@
-# directory-tree-generator
-generate-tree" is a repository containing scripts and tools for generating directory tree structures. These scripts allow users to visualize the hierarchical structure of directories and files within a specified directory.
+# Directory Tree Generator
 
 
 <div align="center">
   <a href="https://javascript.info" target="_blank"><img src="https://img.icons8.com/color/452/javascript--v1.png" width="200" alt="JavaScript Logo"></a>
   <h1>Project Name</h1>
-  <p>Brief description of the project and its purpose.</p>
+  <p>Generate-tree" is a repository containing scripts and tools for generating directory tree structures. These scripts allow users to visualize the hierarchical structure of directories and files within a specified directory.</p>
 </div>
 
 
