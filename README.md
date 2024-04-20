@@ -42,6 +42,57 @@ node script-alternative.js
 ```
 - `This will print the directory tree structure in your console.`
 
+## Examples
+
+```Tree:
+└── .env
+└── .gitignore
+└── package-lock.json
+└── package.json
+└── src/
+    ├── config/
+    │   ├── index.ts
+    ├── data/
+    ├── graphql/
+    │   ├── index.ts
+    │   ├── resolvers/
+    │   │   ├── resolversInventory.ts
+    │   │   ├── resolversPayments.ts
+    │   ├── schemas/
+    │   │   └── inventory.graphql
+    │   │   └── payments.graphql
+    ├── index.ts
+    ├── mongo/
+    │   └── index.ts
+└── tsconfig.json
+```
+
+- `Or`
+
+```
+Tree:
+.env/
+.gitignore/
+package-lock.json/
+package.json/
+src/
+│   config/
+│   │   index.ts/
+│   data/
+│   graphql/
+│   │   index.ts/
+│   │   resolvers/
+│   │   │   resolversInventory.ts/
+│   │   │   resolversPayments.ts/
+│   │   schemas/
+│   │       inventory.graphql/
+│   │       payments.graphql/
+│   index.ts/
+│   mongo/
+│       index.ts/
+tsconfig.json/
+```
+
 ## Contribution
 
 If you want to contribute to this project, follow these steps:
