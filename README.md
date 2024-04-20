@@ -19,14 +19,14 @@
 <p>To get started, clone this repository to your local machine:</p>
 <pre><code class="language-bash">git clone https://github.com/diiaz2910/directory-tree-generator.git
 </code></pre>
-<p>Then, install the dependencies using npm:</p>
-<pre><code class="language-bash">npm install
-</code></pre>
+<p>Then, make sure you have node installed on your machine</p>
 <h2 id="usage">Usage</h2>
+<p>Get the path of the folder you want to create the tree</p>
+<p>Paste the path next to const projectDirectory</p>
 <p>To run the project locally, use the following command:</p>
-<pre><code class="language-bash">npm start
+<pre><code class="language-bash">node script.js or node script-alternative.js
 </code></pre>
-<p>This will start the application in development mode. Open <a href="http://localhost:3000">http://localhost:3000</a> to view it in your browser.</p>
+<p>This will print the directory tree on your console</p>
 <h2 id="contribution">Contribution</h2>
 <p>If you want to contribute to this project, follow these steps:</p>
 <ul>
@@ -36,19 +36,6 @@
 <li>Push to the branch: <code>git push origin feature/FeatureName</code>.</li>
 <li>Open a pull request on GitHub.</li>
 </ul>
-<h2 id="project-structure">Project Structure</h2>
-<p>Description of the project&#39;s file and folder structure.</p>
-<pre><code class="language-java">.
-├── public/
-│   ├── index.html
-├── src/
-│   ├── components/
-│   ├── App.tsx
-│   ├── index.tsx
-├── .gitignore
-├── package.json
-└── README.md
-</code></pre>
 <h2 id="dependencies">Dependencies</h2>
 <p>List of the main project dependencies and their function:</p>
 <ul>
