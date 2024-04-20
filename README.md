@@ -30,8 +30,8 @@ Make sure you have Node.js installed on your machine. You can download it from [
 ## Usage
 
 - Get the path of the folder you want to create the tree.
-- Paste the path next to `const projectDirectory` in the `script.js` or `script-alternative.js` file.
-- To run the project locally, use the following command:
+- Paste the path next to `const projectDirectory` in the `script.js` or `script-alternative.js` file and bear in mind to keep double \\.
+- To run the project use the following command:
 
 ```bash
 node script.js
