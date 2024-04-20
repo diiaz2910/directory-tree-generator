@@ -9,10 +9,11 @@
 
 
 <p align="center">
-  <a href="https://www.npmjs.com/package/react"><img src="https://img.shields.io/npm/dt/react" alt="Total NPM Downloads"></a>
-  <a href="https://www.npmjs.com/package/react"><img src="https://img.shields.io/npm/v/react" alt="Latest Stable Version"></a>
-  <a href="https://www.npmjs.com/package/react"><img src="https://img.shields.io/npm/l/react" alt="License"></a>
+  <a href="https://www.npmjs.com/package/javascript"><img src="https://img.shields.io/npm/dt/javascript" alt="Total NPM Downloads"></a>
+  <a href="https://www.npmjs.com/package/javascript"><img src="https://img.shields.io/npm/v/javascript" alt="Latest Stable Version"></a>
+  <a href="https://www.npmjs.com/package/javascript"><img src="https://img.shields.io/npm/l/javascript" alt="License"></a>
 </p>
+
 
 <h2 id="installation">Installation</h2>
 <p>To get started, clone this repository to your local machine:</p>
