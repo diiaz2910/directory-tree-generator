@@ -18,12 +18,12 @@ To get started, clone this repository to your local machine:
 
 ```bash
 git clone https://github.com/diiaz2910/directory-tree-generator.git
-
+```
 Then, navigate to the cloned directory:
 
 ```bash
 cd directory-tree-generator
-
+```
 Make sure you have Node.js installed on your machine. You can download it from [here](https://nodejs.org/).
 
 
@@ -35,26 +35,12 @@ Make sure you have Node.js installed on your machine. You can download it from [
 
 ```bash
 node script.js
-
-Here's the text in Markdown:
-
-markdown
-
-## Usage
-
-- Get the path of the folder you want to create the tree.
-- Paste the path next to `const projectDirectory` in the `script.js` or `script-alternative.js` file.
-- To run the project locally, use the following command:
-
-```bash
-node script.js
-
+```
 or
 ```bash
 node script-alternative.js
-
-
-This will print the directory tree structure in your console.
+```
+- `This will print the directory tree structure in your console.`
 
 ## Contribution
 
